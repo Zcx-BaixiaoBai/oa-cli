@@ -1,0 +1,28 @@
+{
+  "name": "oa-cli",
+  "version": "0.1.0",
+  "description": "Weaver e-cology 9 workflow data extraction CLI: lists, forms, detail tables, approval trail and attachments into SQLite",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "login": "node oa/login.mjs",
+    "pull": "node oa/pull.mjs",
+    "sync": "node oa/sync.mjs",
+    "sample": "node oa/sample.mjs",
+    "check": "node oa/check.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  },
+  "keywords": [
+    "weaver",
+    "ecology",
+    "e-cology",
+    "oa",
+    "workflow",
+    "cli"
+  ]
+}
