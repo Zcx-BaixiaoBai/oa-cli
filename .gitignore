@@ -18,3 +18,5 @@ Thumbs.db
 
 # 本地工具状态
 .mimosa/
+# 打包产物
+*.tgz
