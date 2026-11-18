@@ -120,4 +120,6 @@ data/
 
 ## License
 
-MIT
+GNU General Public License v3.0 only（GPL-3.0-only），见 [LICENSE](LICENSE)。
+
+分发本工具或其修改版时，必须以同一许可证开放源代码；内部使用不受限制。
